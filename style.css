@@ -1,0 +1,217 @@
+header>h1{
+    text-align: center;
+}
+
+header{
+    background-color: #FFB200   ;
+    margin-bottom: 0px;
+}
+.escape{
+    font-size: 40px;
+    color: #E23D28;
+    text-decoration: underline;
+}
+
+.death{
+    font-size: 30px;
+    color: #E23D28;
+    text-decoration: underline;
+}
+.intro{
+    font-size: 40px;
+    width: 60%;
+
+padding-top: 10%;
+    
+    text-align: center;
+    margin-left: 15%;
+    color: white;
+    
+
+}
+.start{
+    background-color: greenyellow;
+    font-size: 40px;
+    cursor: pointer;
+    margin-left: 40%;
+}
+.firstpageback{
+    background-image: url(./firstbackground.jpeg);
+    background-repeat: no-repeat;
+   background-size: 100%;
+    height: 700px;
+    margin-top:-20px;
+}
+.secondheader{
+   font-size: 40px; 
+   color: white;
+   width: 60%;
+   text-align: center;
+   margin-left: 20%;
+}
+.pres{
+    color: #E23D28;
+}
+
+
+.restartpagecolor{
+background-color:#FFB200;
+}
+.gameover{
+    color: red;
+    text-align: center;
+    font-size: 60px;
+}
+.sorrywords{
+    font-size: 40px;
+    text-align: center;
+}
+.againbutton{
+    height: 50px;
+    width: 250px;
+    background-color: greenyellow;
+    font-size: 30px;
+    margin-left: 45%;
+}
+
+
+.theblock{
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 400px;
+   
+    
+}
+
+.definitions{
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   width: 80%;
+   height: 30px;
+   margin-top: 30px;
+   
+}
+.speech{
+    width: 30%;
+    text-align: center;
+    color:red;
+    font-size: 30px;
+  
+}
+.speech2
+{   width: 50%;
+    text-align: center;
+    color:red;
+    font-size: 30px;
+
+}
+
+
+.bodythirdstage{
+    background-color: #FFB200;
+}
+
+
+.first{
+    background-image: url(./images/toothbrush.png);
+background-size: 100%;
+   
+    width: 100%;
+    background-repeat: no-repeat;
+    
+  
+    
+
+}
+.anchor{
+    width: 100%;
+    height: 100%;
+}
+.second{
+    background-image: url(./images/spoon.jpeg);
+    background-size: 100%;
+   height: 100%;
+    width: 100%;
+    background-repeat: no-repeat; 
+    cursor: pointer; 
+}
+.third{
+    background-image: url(./images/pen.jpeg);
+    background-size: 100%;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;    
+    cursor: pointer;
+}
+
+.fourth{
+    background-image: url(./images/doorleft.png);
+    background-size: 100%;
+  
+  width: 50%;
+    background-repeat: no-repeat; 
+    cursor: pointer;    
+}
+
+.fifth{
+    background-image: url(./images/doorleft.png);
+    background-size: 100%;
+   height: 100%;
+   width: 50%;
+    background-repeat: no-repeat; 
+    cursor: pointer;   
+}
+.sixth{
+    background-image: url(./images/doorleft.png);
+    background-size: 100%;
+   height: 100%;
+   width: 50%;
+    background-repeat: no-repeat; 
+    cursor: pointer;  
+}
+.seven{
+    background-image: url(./images/texi.jpg);
+    background-size: 100%;
+   height: 100%;
+   width: 60%;
+    background-repeat: no-repeat; 
+    cursor: pointer;  
+}
+.eight{
+    background-image: url(./images/clothes.png);
+  background-size: contain;
+
+   width: 45%;
+    background-repeat: no-repeat; 
+    cursor: pointer;     
+}
+.nine{
+    background-image: url(./images/forest.png);
+    background-size: 100%;
+   
+   width: 60%;
+    background-repeat: no-repeat; 
+    cursor: pointer;   
+}
+.ten{
+    background-image: url(./images/tree.png);
+    background-size: 100%;
+   
+   width: 60%;
+    background-repeat: no-repeat; 
+    cursor: pointer;  
+}
+.eleven{
+    background-image: url(./images/shelter.jpeg);
+    background-size: 100%;
+   
+   width: 60%;
+    background-repeat: no-repeat; 
+    cursor: pointer; 
+}
