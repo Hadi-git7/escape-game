@@ -55,7 +55,7 @@ padding-top: 10%;
 
 
 .restartpagecolor{
-background-color:#FFB200;
+background-color:orange;
 }
 .gameover{
     color: red;
@@ -214,4 +214,41 @@ background-size: 100%;
    width: 60%;
     background-repeat: no-repeat; 
     cursor: pointer; 
+}
+.twelve{
+    background-image: url(./images/closet.png);
+    background-size: 100% 100%;
+   
+   width: 60%;
+    background-repeat: no-repeat; 
+    cursor: pointer; 
+}
+.thirteen{
+    background-image: url(./images/escape.jpeg);
+    background-size: 100%;
+   
+   width: 60%;
+    background-repeat: no-repeat; 
+    cursor: pointer;  
+}
+.fourteen{
+    background-image: url(./images/tribe.jpeg);
+    background-size: 100% 100%;
+   
+   width: 60%;
+    background-repeat: no-repeat; 
+    cursor: pointer;
+}
+.fifteen{
+    background-image: url(./images/train.jpeg);
+    background-size:  100% 100%;
+   
+   width: 60%;
+    background-repeat: no-repeat; 
+    cursor: pointer;
+}
+.congrats{
+    color:greenyellow ;
+    text-align: center;
+    font-size: 60px;
 }
