@@ -253,3 +253,39 @@ background-size:  100% 100%;
     text-align: center;
     font-size: 60px;
 }
+
+
+
+
+.sewageleft{
+    background-image: url(./images/ways.jpeg);
+    background-size:  100% 100%;
+   
+   width: 60%;
+    background-repeat: no-repeat; 
+    cursor: pointer;
+}
+.sewageright{
+    background-image: url(./images/ways.jpeg);
+    background-size:  100% 100%;
+   
+   width: 60%;
+    background-repeat: no-repeat; 
+    cursor: pointer;
+}
+.taxileft{
+    background-image: url(./images/leftlane.jpg);
+    background-size:  100% 100%;
+   
+   width: 60%;
+    background-repeat: no-repeat; 
+    cursor: pointer;
+}
+.taxiright{
+    background-image: url(./images/rightlane.jpeg);
+    background-size:  100% 100%;
+   
+   width: 60%;
+    background-repeat: no-repeat; 
+    cursor: pointer;
+}
