@@ -13,11 +13,10 @@ You were framed of murder and have  been sended to jail ,but you were innocent a
 Then you decided to dig in the ground ,so your first task is to choose the correct tool so you can dig your way out of prison.
 <br>
 
-After picking the right tool, you digged a hole in the ground that led you to three ways.One of them will take you outside the prison.
+After picking the right tool, you digged a hole in the ground that led you to three ways(Left door, Sewage tunnel, and Right door).The right door will lead you out , and the sewage tunnel will lead you to two separate ways where you have two men with two advices.One of them will get you back to jail and the other will get you out as well.
 <br>
 
-When you escape the prison,you'll find three destinations. Two of them will bring you back to the jail or lead to your death, and one of them will let you continue the game.
-<br>
+When you escape the prison,you'll find three destinations(Taxi driver,colthes shop, and walking into the forest). One of them will get you back into jail while the others will have different destinations.
 
 After picking the correct destination, you will feel so tired and need some rest. You have two choices, one of them will bring you back to jail, so be aware of which one do you choose!
 <br>
